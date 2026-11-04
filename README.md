@@ -1,4 +1,4 @@
-# VYGEO
+# VYGEO LEPSI VERZE
 Toto je zkušební depozitář pro VYGEO
 ## Je to tak
 Doopravdy
